@@ -1,7 +1,7 @@
 {
-  "identifier": "org.worldtakeoverindustries.ForkLauncher",
+  "identifier": "com.worldtakeoverindustries.ForkLauncher",
   "name": "ForkLauncher",
-  "organization": "WorldTakeoverInduatries",
+  "organization": "World Takeover Induatries",
   "description": "Open the current workspace with the Fork Git client",
   "version": "1.0.1",
   "categories": ["commands"],
