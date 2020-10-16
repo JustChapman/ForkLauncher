@@ -16,7 +16,8 @@
     "extensions": [
       {
         "title": "Open Workspace in Fork",
-        "command": "ForkLauncher.runFork"
+        "command": "ForkLauncher.runFork",
+        "shortcut": "cmd-option-ctrl-f"
       }
     ]
   }
