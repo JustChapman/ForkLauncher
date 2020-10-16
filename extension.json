@@ -1,12 +1,12 @@
 {
-  "identifier": "org.ursamaris.nova.tower",
-  "name": "Tower",
-  "organization": "John Fieber",
-  "description": "Open the current workspace with the Tower Git client",
+  "identifier": "org.worldtakeoverindustries.ForkLauncher",
+  "name": "ForkLauncher",
+  "organization": "WorldTakeoverInduatries",
+  "description": "Open the current workspace with the Fork Git client",
   "version": "1.0",
   "categories": ["commands"],
-  "repository": "https://github.com/jfieber/Tower.novaextension",
-  "bugs": "https://github.com/jfieber/Tower.novaextension/issues",
+  "repository": "https://github.com/JustChapman/ForkLauncher",
+  "bugs": "https://github.com/JustChapman/ForkLauncher/issues",
   "license": "MIT",
   "main": "main.js",
   "entitlements": {
@@ -15,8 +15,8 @@
   "commands": {
     "extensions": [
       {
-        "title": "Open Workspace in Tower",
-        "command": "tower.runTower"
+        "title": "Open Workspace in Fork",
+        "command": "ForkLauncher.runFork"
       }
     ]
   }
