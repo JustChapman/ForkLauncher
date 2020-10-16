@@ -3,7 +3,7 @@
   "name": "ForkLauncher",
   "organization": "WorldTakeoverInduatries",
   "description": "Open the current workspace with the Fork Git client",
-  "version": "1.0",
+  "version": "1.0.1",
   "categories": ["commands"],
   "repository": "https://github.com/JustChapman/ForkLauncher",
   "bugs": "https://github.com/JustChapman/ForkLauncher/issues",
